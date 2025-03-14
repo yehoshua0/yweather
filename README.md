@@ -4,7 +4,7 @@ Flutter Weather App With API || Flutter OpenWeatherMap
 
 # Screenshot
 
-<img src="assets/yweather.png" alt="YWeather App Screenshot" width="300" height="400">
+<img src="assets/yweather.png" alt="YWeather App Screenshot" width="300" height="580">
 
 ## Getting Started
 
