@@ -2,6 +2,10 @@
 
 Flutter Weather App With API || Flutter OpenWeatherMap
 
+# Screenshot
+
+![YWeather App Screenshot](assets/yweather.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
